@@ -5,7 +5,7 @@ int main()
 {
     float result = 0;
     cout << "Welcome to the Calculator" << endl;
-    float num, num2;
+    float num;
     while (true)
     {
 
